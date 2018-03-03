@@ -1,2 +1,2 @@
 # proxyjar
-A small app that allow you to exec a .jar file via a SOCK Proxy.
+A small app that allow you to exec a .jar file via a SOCK Proxy that can be choosed... 
